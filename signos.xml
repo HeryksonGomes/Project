@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Na tradição astrológica, Áries é associado à iniciativa, à coragem e à disposição para começar novos projetos. É um signo do elemento Fogo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Na tradição astrológica, Touro é associado à persistência, à estabilidade e à valorização do conforto. É um signo do elemento Terra.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Na tradição astrológica, Gêmeos é associado à comunicação, à curiosidade e à facilidade de explorar diferentes ideias. É um signo do elemento Ar.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Na tradição astrológica, Câncer é associado à sensibilidade, ao cuidado e à ligação com a família. É um signo do elemento Água.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Na tradição astrológica, Leão é associado à criatividade, à generosidade e à expressão pessoal. É um signo do elemento Fogo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Na tradição astrológica, Virgem é associado à organização, à atenção aos detalhes e ao senso prático. É um signo do elemento Terra.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Na tradição astrológica, Libra é associado ao equilíbrio, à cooperação e à busca de harmonia nas relações. É um signo do elemento Ar.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Na tradição astrológica, Escorpião é associado à intensidade, à determinação e à transformação. É um signo do elemento Água.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Na tradição astrológica, Sagitário é associado ao entusiasmo, à liberdade e à busca por conhecimento. É um signo do elemento Fogo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Na tradição astrológica, Capricórnio é associado à disciplina, à responsabilidade e à perseverança em seus objetivos. É um signo do elemento Terra.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Na tradição astrológica, Aquário é associado à originalidade, à independência e ao interesse por ideias coletivas. É um signo do elemento Ar.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Na tradição astrológica, Peixes é associado à imaginação, à empatia e à sensibilidade. É um signo do elemento Água.</descricao>
+    </signo>
+</signos>
